@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Lands-PWA/static/css/main.17244cfd.css",
+    "main.js": "/Lands-PWA/static/js/main.d1b33aa2.js",
+    "static/media/Black720x347.png": "/Lands-PWA/static/media/Black720x347.d6a5b87843aa959fbeb6.png",
+    "static/media/White720-347.png": "/Lands-PWA/static/media/White720-347.6116301dbd2bc98b0b53.png",
+    "index.html": "/Lands-PWA/index.html",
+    "main.17244cfd.css.map": "/Lands-PWA/static/css/main.17244cfd.css.map",
+    "main.d1b33aa2.js.map": "/Lands-PWA/static/js/main.d1b33aa2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17244cfd.css",
+    "static/js/main.d1b33aa2.js"
+  ]
+}
